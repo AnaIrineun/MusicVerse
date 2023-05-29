@@ -1,0 +1,22 @@
+.navegacao {
+    height: 112px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 3rem;
+    background-color:white;
+}
+
+.link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    background-color: white;
+}
+
+
+@media (max-width: 744px) {
+    .navegacao {
+        height: 72px;
+    }
+}
