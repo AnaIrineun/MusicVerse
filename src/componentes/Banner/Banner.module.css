@@ -6,7 +6,7 @@
 
 .banner {
     padding: 3rem 7.5rem 6.25rem;
-    background-color:#012927;
+    background-color:white;
     color: white;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -19,7 +19,7 @@
     margin-bottom: 2rem;
     text-align: center;
     flex-direction: column;
-    color: white;
+    color: black;
 }
 
 .paragrafo {
@@ -29,7 +29,7 @@
     text-align: center;
     padding-bottom: 30px;
     display: block;
-    color: white;
+    color: black;
 
     
 
@@ -43,7 +43,7 @@
     font-weight: 600px;
     padding: 20px 40px;
     text-decoration: none;
-    color: white;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: block;
     text-align: center;

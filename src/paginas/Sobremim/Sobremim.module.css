@@ -2,13 +2,13 @@
 *{
     margin:0;
     padding:0;
-    background-color: #012927;
+    background-color: white;
     
 }
 
 .banner {
     padding: 3rem 7.5rem 6.25rem;
-    color: #012927;
+    color:white;
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
@@ -21,7 +21,7 @@
     text-align: justify;
     padding-bottom: 30px;
     display: flex;
-    color: white;
+    color: black;
     
 
    
